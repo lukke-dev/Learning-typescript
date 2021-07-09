@@ -1,3 +1,1 @@
-import func from './mod';
-
-func();
+console.log('aki ta funfando 2');
